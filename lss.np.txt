@@ -1,0 +1,3 @@
+#!/bin/bash
+read -p "enter n value" n
+echo $n
